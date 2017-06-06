@@ -5,6 +5,9 @@
 * cd build
 * cmake ../
 * make
+
+## Database download link is (http://naver.me/FIIJ3Hfn)
+
 * ./detectnet-lwir
 
 ------------------------------------------------------------------------------------------------------------------------

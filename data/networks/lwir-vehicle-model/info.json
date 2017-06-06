@@ -1,0 +1,24 @@
+{
+    "caffe flavor": "NVIDIA",
+    "caffe version": "0.15.14",
+    "creation time": "2017-01-17 09:33:18.111209",
+    "dataset_id": "20170117-092511-828e",
+    "deploy file": "deploy.prototxt",
+    "digits version": "5.1-dev",
+    "framework": "caffe",
+    "id": "20170117-093318-9286",
+    "image dimensions": [
+        240,
+        320,
+        3
+    ],
+    "job id": "20170117-093318-9286",
+    "mean file": "mean.binaryproto",
+    "model file": "original.prototxt",
+    "name": "LWIR_Vehicle_color_Adam_0.00001_pre",
+    "snapshot file": "snapshot_iter_45090.caffemodel",
+    "solver file": "solver.prototxt",
+    "status": "Done",
+    "train_val file": "train_val.prototxt",
+    "username": "ubuntu"
+}

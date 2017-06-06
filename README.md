@@ -6,8 +6,14 @@
 * cmake ../
 * make
 
-## Database download link is (http://naver.me/FIIJ3Hfn)
-
+## Database download link is
+* http://naver.me/FIIJ3Hfn
+* Database download and uncompress
+* if database is not "/home/ubuntu/GITC_LWIR"
+* you are modify in /detectnet-lwir/detectnet-lwir.cpp
+* in the 93 line, 
+* modify filepath and filename of "sprintf(imgFilename, "/home/ubuntu/GITC_LWIR/DB_1st/images/%06d.bmp", num);"
+* And, in the build folder, make
 * ./detectnet-lwir
 
 ------------------------------------------------------------------------------------------------------------------------
